@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## I'm a Computational Scientist / Physicist
 
  - I'm currently working on local embedding methods for Auxiliary-Field Quantum Monte Carlo [J. Chem. Theory Comput. 2019, 15, 7, 3949–3959](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01244)
- - I'm also working on the treatment of Spin-orbit coupling in *ab initio* many-body calculations
+ - I'm also working on the treatment of spin-orbit coupling in *ab initio* many-body calculations
