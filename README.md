@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm a Computational Scientist / Physicist
 
  - I'm currently working on local embedding methods for Auxiliary-Field Quantum Monte Carlo (AFQMC) [J. Chem. Theory Comput. 2019, 15, 7, 3949–3959](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01244)
- - I'm also working on the treatment of spin-orbit coupling in *ab initio* AFQMC calculations. See our preprint on the [arXiv](https://arxiv.org/abs/2110.10201)
+ - I'm also working on the treatment of spin-orbit coupling in *ab initio* AFQMC calculations. [J. Chem. Phys. 156, 014107 (2022)](https://aip.scitation.org/doi/10.1063/5.0075900)
 
 ## I'm also an Ethical Hacker
 
