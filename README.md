@@ -11,4 +11,3 @@
 ### I'm also an Application Security Enthusiast:
 
   - 🔭See my AppSec project [Bad Apps : Blog](https://github.com/bkesk/bad-apps-blog), a blog web application where I practice implementing useful features while following secure design / coding best practices.
-  - 🏁 See my Capture the Flag (CTF) 🏁 writeups on my blog, [7UR7L3Blog](https://7ur7l3blog.tech/), for more!
