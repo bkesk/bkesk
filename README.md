@@ -1,7 +1,7 @@
 
 ## I'm a Computational Scientist / Physicist
 
-### Some of my recent work:
+### Some of my recent Publications:
 
  - Application of AFQMC to Molecular Magnets. [J. Chem. Phys. 158, 234110 (2023)](https://doi.org/10.1063/5.0150706)
  - The treatment of spin-orbit coupling in *ab initio* AFQMC calculations. [J. Chem. Phys. 156, 014107 (2022)](https://aip.scitation.org/doi/10.1063/5.0075900)
