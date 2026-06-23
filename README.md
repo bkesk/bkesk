@@ -1,6 +1,11 @@
 
 ## I'm a Computational Scientist / Physicist
 
+### Key projects
+
+- Devloper of [SAFIRE](https://github.com/SFQMC/SAFIRE), a general purpose Auxiliary-Field Quantum Monte Carlo (AFQMC) code supporting molecules, ab initio solids, and lattice models
+- Co-Author of [AutoHF](https://github.com/SFQMC/AutoHF), a GPU-accelerated Hartree-Fock (HF) solver built on JAX/autodiff and focused on lattice model systems. Able to handle general systems via custom Hamiltonian terms.
+
 ### Some of my recent Publications:
 
 - Contributed AFQMC benchmark data to "Downfolding from ab initio to interacting model Hamiltonians: comprehensive analysis and benchmarking of the DFT+cRPA approach" [npj Computational Materials volume 10, Article number: 129 (2024) ](https://www.nature.com/articles/s41524-024-01314-6)
