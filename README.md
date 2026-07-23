@@ -1,7 +1,7 @@
 
 ## I'm a Computational Scientist / Physicist
 
-### Key projects
+### Current Projects
 
 - A Core Developer of [SAFIRE](https://safire.flatironinstitute.org/) on [github](https://github.com/SFQMC/SAFIRE), a general purpose Auxiliary-Field Quantum Monte Carlo (AFQMC) code supporting molecules, ab initio solids, and lattice models; 
 - Co-Author of [AutoHF](https://safire.flatironinstitute.org/autohf/dev/) on [github](https://github.com/SFQMC/AutoHF), a GPU-accelerated Hartree-Fock (HF) solver built on JAX/autodiff and focused on lattice model systems. Able to handle general systems via custom Hamiltonian terms.
